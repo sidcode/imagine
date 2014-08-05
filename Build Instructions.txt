@@ -1,0 +1,4 @@
+Use command:
+python gui.py
+
+in the command line to invoke the application.

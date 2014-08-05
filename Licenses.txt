@@ -1,0 +1,42 @@
+'''
+The software aims to be an open-source package with basic, and advanced Image Processing features.
+Copyright (C) 2014 Indian Institute of Remote Sensing, Dehradun
+
+The original authors of this program (in alphabetical order) are:
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Sno.		NAME											Email( AT gmail DOT com)			Role(s)
+---------------------------------------------------------------------------------------------------------------------------------------
+
+1.				Abhishek Kaushik						akaushik079										Rectification
+2.				Abhishek Kumar Roushan		abhishek.roushan12						Histogram, Contrast
+3.				Abhishek Mohta							mohta.abhishek								GUI, Spectral
+4.				Girish Rathi									girishrathi347									Contrast/ Spectral, Rectification GUI
+5.				Pragun Vinayak							pragunvinayak								GUI, Contrast, Histogram
+6.				Saloni Chandak							saloni20121907								GUI, Documentation
+7.				Shalaka Somani							shalaka195										GUI, Spectral
+8.				Siddhant Shrivastava				sidhu94												Classification, Spatial, Polygons
+9.				Siddharth Dalmia						sonudalmia										Classification, Spatial, PCA, libraries
+----------------------------------------------------------------------------------------------------------------------------------------
+
+    
+    Compatible with Python 2.7 ( NOT COMPATIBLE with Python(>3))
+
+	Dependencies: GDAL, NumPy, SciPy, OpenCV, Spectral Python, Tkinter, scikit-learn, scikit-fuzz
+
+    
+
+This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+'''
