@@ -77,20 +77,18 @@ The Python Imaging Library (PIL) adds image processing capabilities to your Pyth
 
 library supports many file formats, and provides powerful image processing and graphics capabilities.
 
-NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+4. NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
- a powerful N-dimensional array object
+###  a powerful N-dimensional array object
 
- sophisticated (broadcasting) functions
+###  sophisticated (broadcasting) functions
 
- tools for integrating C/C++ and Fortran code
+###  tools for integrating C/C++ and Fortran code
 
- useful linear algebra, Fourier transform, and random number capabilities
+###  useful linear algebra, Fourier transform, and random number capabilities
 
 4. Matplotlib – For Data analysis, visualization, etc
 
 5. Python standard library
 
-6. Tkinter library – for GUI frontend programming
-
-Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.
+6. Tkinter library – for GUI frontend programming. Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.
