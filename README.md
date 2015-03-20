@@ -41,7 +41,7 @@ transform.
 
 ##Libraries Used
 
-1. **GDAL** – Geospatial Data Abstraction Library ( a C++ library wrapped for Python support )
+> **GDAL** – Geospatial Data Abstraction Library ( a C++ library wrapped for Python support )
 
 GDAL is a translator library for raster and vector geospatial data formats that is released under 
 
@@ -51,7 +51,7 @@ a single raster abstract data model and vector abstract data model to the callin
 
 formats. It also comes with a variety of useful command line utilities for data translation and processing.
 
-2. **OpenCV** – standard Image processing library
+>  **OpenCV** – standard Image processing library
 
 OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning 
 
@@ -71,24 +71,24 @@ database, remove red eyes from images taken using flash, follow eye movements, r
 
 establish markers to overlay it with augmented reality, etc.
 
-3. **Python Imaging Library** – Basic raster image support
+>  **Python Imaging Library** – Basic raster image support
 
 The Python Imaging Library (PIL) adds image processing capabilities to your Python interpreter. This 
 
 library supports many file formats, and provides powerful image processing and graphics capabilities.
 
-4. NumPy is the fundamental package for scientific computing with Python. It contains among other things:
+>  NumPy is the fundamental package for scientific computing with Python. It contains among other things:
 
-###  a powerful N-dimensional array object
+ a powerful N-dimensional array object
 
-###  sophisticated (broadcasting) functions
+  - sophisticated (broadcasting) functions
 
-###  tools for integrating C/C++ and Fortran code
+  - tools for integrating C/C++ and Fortran code
 
-###  useful linear algebra, Fourier transform, and random number capabilities
+  - useful linear algebra, Fourier transform, and random number capabilities
 
-4. Matplotlib – For Data analysis, visualization, etc
+>  Matplotlib – For Data analysis, visualization, etc
 
-5. Python standard library
+>  Python standard library
 
-6. Tkinter library – for GUI frontend programming. Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.
+>  Tkinter library – for GUI frontend programming. Tkinter is Python's de-facto standard GUI (Graphical User Interface) package.
